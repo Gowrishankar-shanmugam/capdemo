@@ -1,0 +1,8 @@
+name: emponboard-dest-srv
+group: destination
+properties : 
+forwardAuthToken : false
+name: ui5
+url: https://ui5.sap.com
+name: srv-api
+
